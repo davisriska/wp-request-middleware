@@ -10,6 +10,7 @@
 	*/
 	
 	require_once 'Interfaces/MiddlewareInterface.php';
+	require_once 'Interfaces/MiddlewareHandlerInterface.php';
 	require_once 'RequestMiddleware/MiddlewareHandler.php';
 	
 	$middlewareHandler = new MiddlewareHandler();

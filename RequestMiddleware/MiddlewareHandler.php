@@ -11,7 +11,7 @@
 		}
 		
 		function init() {
-			do_action('wp_virtual_routes', $this);
+			do_action('wp_request_middleware', $this);
 		}
 		
 		/**
