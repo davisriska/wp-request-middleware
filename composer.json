@@ -1,0 +1,17 @@
+{
+  "name": "davisriska/wp-request-middleware",
+  "type": "wordpress-muplugin",
+  "description": "Wordpress request middleware",
+  "keywords": [
+    "wordpress"
+  ],
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "davisriska"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
